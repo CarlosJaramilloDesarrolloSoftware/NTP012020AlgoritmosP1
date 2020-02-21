@@ -18,6 +18,8 @@ public class Algoritmos1 {
      */
     public static void main(String[] args) {
         
+        // Comentario del proyecto
+        
         int cantidadPersonas, edad, continuar;
         double promedioEdades, sumatoriaEdades;
         Scanner lector = new Scanner(System.in);
